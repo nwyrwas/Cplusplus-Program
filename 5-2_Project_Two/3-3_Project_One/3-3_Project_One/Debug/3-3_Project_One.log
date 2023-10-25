@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(233,89): error C2440: 'initializing': cannot convert from 'const char [13]' to 'char *'
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(233,22): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(233,89): error C2440: 'initializing': cannot convert from 'const char [15]' to 'char *'
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(233,38): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(245,4): error C3861: 'addOneHour': identifier not found
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(248,4): error C3861: 'addOneMinute': identifier not found
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(251,4): error C3861: 'addOneSecond': identifier not found
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(274,6): error C2065: 's': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(275,3): error C2065: 's': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(278,3): error C2065: 's': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(279,16): error C2065: 'm': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(279,19): error C2065: 'h': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(279,3): error C3861: 'addOneMinute': identifier not found
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(295,6): error C2065: 'm': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(296,3): error C2065: 'm': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(299,3): error C2065: 'm': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(300,14): error C2065: 'h': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(300,3): error C3861: 'addOneHour': identifier not found
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(316,6): error C2065: 'h': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(317,3): error C2065: 'h': undeclared identifier
+C:\Users\nickw\source\repos\3-3_Project_One\3-3_Project_One\main.cpp(320,3): error C2065: 'h': undeclared identifier
