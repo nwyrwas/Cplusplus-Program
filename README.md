@@ -1,29 +1,28 @@
 # Cplusplus-Program
 
-Summarize the project and what problem it was solving.
+## Project Summary
+This project involved creating a banking app for **Airgead Banking**. The goal was to allow users to calculate their investment growth based on an initial investment, monthly deposits, interest rate, and the number of years they plan to invest. The main challenge was to display two scenarios:
+1. Investment growth without any monthly investment.
+2. Investment growth with monthly contributions.
 
-For this project, I had to create a banking app for the company Airgead Banking where I made a flow chart and then I created the code for the app. Where I displayed an initial investment, monthly deposit, interest rate and number of years for investment. The main problem was displaying both a balance without a monthly investment and a function where I had to display with a monthly investment. Just so I could show users how their investments will grow over time. While having the main focus on monthly investments.
+The app provides users with the ability to visualize how their investments will grow over time, with a primary focus on monthly investments.
 
+## What Did I Do Particularly Well?
+I feel that I did a great job implementing a menu system that clearly displayed each investment scenario. Additionally, I effectively incorporated multiple functions, making the app easy to navigate. I also utilized **for loops** to handle repetitive tasks, which helped streamline the code and ensure accurate calculations for each year of investment.
 
-What did you do particularly well?
+## Areas for Code Enhancement
+Although the app works as intended, there are areas where I could make improvements to increase efficiency and functionality:
+- **Optimize loops**: I could explore using other methods besides for loops to perform calculations more efficiently.
+- **Data Persistence**: I could enhance the app by allowing it to save user input (such as investment details) to a file. This would allow users to save their data and pick up where they left off in future sessions, making the app more user-friendly and versatile.
 
-I feel that I did very well on creating a menu displaying each amount. While also incorporating different functions that are called. While also incorporating for loops in them.
+## Most Challenging Parts of the Code
+The most challenging part of the project was calculating **compound interest**. I overcame this challenge by revisiting concepts from my Programming Languages course to ensure that I applied the correct formula and syntax. By troubleshooting and debugging the code, I was able to ensure that the interest calculations were accurate over time.
 
+## Transferable Skills
+This project helped me develop several skills that are transferable to other projects:
+- **Problem-solving**: By utilizing past knowledge, I was able to break down complex problems (like compound interest) and solve them efficiently.
+- **Attention to detail**: This project reinforced the importance of checking for syntax errors and ensuring the logic flows correctly.
+- **Function and structure organization**: I learned how to structure code using multiple functions, which is a valuable skill for maintaining and scaling future projects.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-
-I could enhance my code by trying to find a more efficient way to code or tackle this situation. For example I could possibly use other ways than for loops. Or possibly having the code create and write files. Just so when the user opens the program it would be able to save what they input for future use. 
-
-
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-
-For me it was calculating the compound interest, I overcame this by reviewing what I learned in my Programming Languages to see what I would be missing at times. And ensuring that I had correct syntax for when I would be developing the code. 
-
-What skills from this project will be particularly transferable to other projects or course work?
-
-Being able to use past knowledge to allow me to succeed in creating a high quality product. While also paying attention to detail to allow myself to find and correct any mistakes or syntax errors that I create.
-
-
-How did you make this program maintainable, readable, and adaptable?
-
-I used multiple comments to ensure that it was easily readable for anyone that would try to develop this project further. While also making it easy to adjust or add/remove any functions to make the program more high-quality.
+## How Did I Make This Program Maintainable, Readable, and Adaptable?
+To ensure the program is maintainable and easy to extend, I included several **comments** throughout the code to explain the logic behind key sections. This makes the code more understandable for anyone who may work on the project in the future. Additionally, I designed the app so that new features or functions could be added or removed without disrupting the program’s flow, making it adaptable for future improvements or changes.
